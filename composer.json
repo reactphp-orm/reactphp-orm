@@ -1,0 +1,12 @@
+{
+  "name": "react-orm/react-orm",
+  "description": "Meta package",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cees-Jan Kiewiet",
+      "email": "ceesjank@gmail.com",
+      "homepage": "https://www.wyrihaximus.net/"
+    }
+  ]
+}
